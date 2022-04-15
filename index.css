@@ -2,6 +2,11 @@ html {
     background-color: maroon;
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
 #banner {
     color: gold;
     background-color: navy;
